@@ -10,4 +10,4 @@ In order to create a token on top of Ethereum there  are a few basic concepts yo
 
 ### Check out the code samples so that you can understand these examples better.
 
-#### PS: Remember to include the pragma solidity version at the top of your file
+##### PS: Remember to include the pragma solidity version at the top of your file

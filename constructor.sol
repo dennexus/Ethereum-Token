@@ -5,7 +5,7 @@ class construct {
 
 	function construct () public 
 	{
-		//logic here gets executed when function goes live
+		//logic here gets executed when contracts gets deployed
 		owner = msg.sender;
 	}
 }
